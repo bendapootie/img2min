@@ -57,10 +57,10 @@ Artifacts are more pronounced in the larger images and are especially noticeable
 
 | Source Image                                 | Large Logic Display                                          | (small) Logic Display                                        |
 | -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![mona_lisa_src_176x176](docs\mona_lisa.jpg) | [mona_lisa_176x176](docs\mona_lisa_176x176.txt)<br />![mona_lisa_out_lg](docs\mona_lisa_out_lg.png) | [mona_lisa_80x80](docs\mona_lisa_80x80.txt)<br />![mona_lisa_out_sm](docs\mona_lisa_out_sm.png) |
-| ![kitten_src_176x176](docs\kitten.jpg)       | [kitten_176x176](docs\kitten_176x176.txt)<br />![kitten_out_img](docs\kitten_out_lg.png) | [kitten_80x80](docs\kitten_80x80.txt)<br />![kitten_out_sm](docs\kitten_out_sm.png) |
-| ![baboon_src_176x176](docs\baboon.jpg)       | [baboon_176x176](docs\baboon_176x176.txt)<br />![baboon_out_img](docs\baboon_out_lg.png) | [baboon_80x80](docs\baboon_80x80.txt)<br />![baboon_out_img](docs\baboon_out_sm.png) |
-| ![pete_src_80x80](docs\pete.jpg)             | [pete_176x176](docs\pete_176x176.txt)<br />![pete_out_lg](docs\pete_out_lg.png) | [pete_80x80](docs\pete_80x80.txt)<br />![pete_out_img](docs\pete_out_sm.png) |
+| ![mona_lisa_src_176x176](docs/mona_lisa.jpg) | [mona_lisa_176x176](docs/mona_lisa_176x176.txt)<br />![mona_lisa_out_lg](docs/mona_lisa_out_lg.png) | [mona_lisa_80x80](docs/mona_lisa_80x80.txt)<br />![mona_lisa_out_sm](docs/mona_lisa_out_sm.png) |
+| ![kitten_src_176x176](docs/kitten.jpg)       | [kitten_176x176](docs/kitten_176x176.txt)<br />![kitten_out_img](docs/kitten_out_lg.png) | [kitten_80x80](docs/kitten_80x80.txt)<br />![kitten_out_sm](docs/kitten_out_sm.png) |
+| ![baboon_src_176x176](docs/baboon.jpg)       | [baboon_176x176](docs/baboon_176x176.txt)<br />![baboon_out_img](docs/baboon_out_lg.png) | [baboon_80x80](docs/baboon_80x80.txt)<br />![baboon_out_img](docs/baboon_out_sm.png) |
+| ![pete_src_80x80](docs/pete.jpg)             | [pete_176x176](docs/pete_176x176.txt)<br />![pete_out_lg](docs/pete_out_lg.png) | [pete_80x80](docs/pete_80x80.txt)<br />![pete_out_img](docs/pete_out_sm.png) |
 
 
 
